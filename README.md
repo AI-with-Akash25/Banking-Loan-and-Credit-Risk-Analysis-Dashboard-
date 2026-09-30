@@ -1,4 +1,4 @@
-![Home Page](images/home.png)
+
 <div align="center">
 
 <h1>🏦 Banking Loan & Credit Risk Analysis Dashboard</h1>
