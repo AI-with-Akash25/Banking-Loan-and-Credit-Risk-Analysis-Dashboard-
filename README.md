@@ -239,3 +239,89 @@ Power BI | DAX | Power Query | Excel | Data Analysis | Data Visualization
 </p>
 
 </div>
+
+<h2>📊 Dashboard Pages</h2>
+
+<h3>1️⃣ Loan Portfolio Performance</h3>
+
+<p>
+Provides an overview of the bank's loan portfolio and application performance.
+</p>
+
+<p align="center">
+<img src="Screenshots/Loan_Portfolio_Performance.png"
+     alt="Loan Portfolio Performance Dashboard"
+     width="900">
+</p>
+
+<b>Key KPIs:</b>
+
+<ul>
+<li>Total Loan Amount</li>
+<li>Total Applications</li>
+<li>Approved Loans</li>
+<li>Rejected Loans</li>
+<li>Average Loan Amount</li>
+<li>Average DTI Ratio</li>
+</ul>
+
+<b>Visualizations:</b>
+
+<ul>
+<li>Loan Status Distribution</li>
+<li>Loan Amount by Loan Type</li>
+<li>Loan Application by Age Group</li>
+<li>Loan Application Trend</li>
+</ul>
+
+
+<h3>2️⃣ Credit & Risk Analysis</h3>
+
+<p>
+Analyzes customer creditworthiness and loan risk.
+</p>
+
+<p align="center">
+<img src="Screenshots/Credit_Risk_Analysis.png"
+     alt="Credit and Risk Analysis Dashboard"
+     width="900">
+</p>
+
+<b>Key KPIs:</b>
+
+<ul>
+<li>Average Credit Score</li>
+<li>Average Risk Score</li>
+<li>High Risk Customers</li>
+</ul>
+
+<b>Visualizations:</b>
+
+<ul>
+<li>Risk Level Distribution</li>
+<li>Credit Score vs Risk Score</li>
+<li>Risk Level by Loan Type</li>
+</ul>
+
+
+<h3>3️⃣ Financial Performance Analysis</h3>
+
+<p>
+Analyzes financial performance using loan, income, purpose, and
+interest-rate related information.
+</p>
+
+<p align="center">
+<img src="Screenshots/Financial_Performance_Analysis.png"
+     alt="Financial Performance Analysis Dashboard"
+     width="900">
+</p>
+
+<b>Visualizations:</b>
+
+<ul>
+<li>Annual Income vs Loan Amount</li>
+<li>Loan Amount by Loan Purpose</li>
+<li>Interest Rate by Loan Type</li>
+<li>Financial Performance Trends</li>
+</ul>
